@@ -4,5 +4,5 @@
 Here's my Catstagram project, an Instagram for Cats, displaying the different types and description of every cat species out there from an external API. 
 The highlight of this project is to showcase my initial exposure to APIs and how I learnt to integrate API with my webpage.
 
-Here's the link to my Catstagram: 
+Here's the link to my Catstagram: https://timothyytl.github.io/catstagram/
 
